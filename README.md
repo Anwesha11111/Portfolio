@@ -39,4 +39,5 @@ This site can be easily deployed to GitHub Pages for free hosting.
 ## License
 
 
-MIT License - feel free to use this for your own portfolio!
+MIT License 
+
